@@ -11,6 +11,12 @@ My first time creating a "project" HTML/CSS, built with [4geeks](https://4geeksa
 
 Check out the live demo [HERE...](https://hometown-an.netlify.app/).
 
+## Authors
+
+[Anggie Alava](https://www.linkedin.com/in/anggiealava/)
+
+![Logo](./logo192x192.png)
+
 ## Preview
 
 ![Project Preview](/images/hometown.png)
